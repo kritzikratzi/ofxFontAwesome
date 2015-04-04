@@ -44,7 +44,7 @@ Only works with [ofxFontStash](https://github.com/armadillu/ofxFontStash)
 
 Produces the following output: 
 
-![Preview image](preview.png =100x)
+![Preview image](preview.png)
 
 
 
