@@ -310,7 +310,7 @@ namespace ofxFontAwesome{
 	const string link = "\uf0c1";
 	const string linkedin = "\uf0e1";
 	const string linkedin_square = "\uf08c";
-	const string linux = "\uf17c";
+	const string linux_ = "\uf17c";
 	const string list = "\uf03a";
 	const string list_alt = "\uf022";
 	const string list_ol = "\uf0cb";
