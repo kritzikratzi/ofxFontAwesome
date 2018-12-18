@@ -38,8 +38,8 @@ The examples use [ofxFontStash2](https://github.com/armadillu/ofxFontStash2) to 
 	void ofApp::setup(){
 		// each fontawesome version has a constant with the default ttf name
 		stash.addFont("fa4", ofxFontAwesome4::filename); // fontawesome 4
-		stash.addFont("fa5r", ofxFontAwesome5s::filename); // fontawesome 5, solid icons
-		stash.addFont("fa5s", ofxFontAwesome5r::filename); // fontawesome 5, regular icons
+		stash.addFont("fa5s", ofxFontAwesome5s::filename); // fontawesome 5, solid icons
+		stash.addFont("fa5r", ofxFontAwesome5r::filename); // fontawesome 5, regular icons
 	}
 	
 	void ofApp::draw(){
@@ -55,7 +55,7 @@ The examples use [ofxFontStash2](https://github.com/armadillu/ofxFontStash2) to 
 		stash.draw( ofxFontAwesome5s::align_center + "    " + ofxFontAwesome5s::bath, style, 50, 130);
 
 		style = ofxFontStashStyle("fa5r", 12, {255,255,0}); 
-		stash.draw( ofxFontAwesome5r::address_book + "    " + ofxFontAwesome5s::clipboard, style, 50, 160);
+		stash.draw( ofxFontAwesome5r::address_book + "    " + ofxFontAwesome5r::clipboard, style, 50, 160);
 	}
 
 Produces the following output: 
