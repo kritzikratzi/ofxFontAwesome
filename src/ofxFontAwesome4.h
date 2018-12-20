@@ -20,7 +20,7 @@ namespace ofxFontAwesome4 {};
 namespace ofxFontAwesome = ofxFontAwesome4;
 
 namespace ofxFontAwesome4 {
-	const string filename = "fontawesome-webfont-regular.ttf";
+	const string _filename = "fontawesome-webfont.ttf";
 
 	const string adjust = "\xef\x81\x82";
 	const string adn = "\xef\x85\xb0";

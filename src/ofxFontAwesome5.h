@@ -4,7 +4,7 @@
 
 namespace ofxFontAwesome5r {
 	using namespace std; 
-	const string filename = "fa-regular-400.ttf";
+	const string _filename = "fa-regular-400.ttf";
 
 	const string address_book = u8"\uF2B9";
 	const string address_card = u8"\uF2BB";
@@ -161,7 +161,7 @@ namespace ofxFontAwesome5r {
 
 namespace ofxFontAwesome5s {
 	using namespace std; 
-	const string filename = "fa-solid-900.ttf";
+	const string _filename = "fa-solid-900.ttf";
 
 	const string ad = u8"\uF641";
 	const string address_book = u8"\uF2B9";
